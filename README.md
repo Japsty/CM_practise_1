@@ -76,30 +76,3 @@ h hello include int main n printf return stdio void world
 ## Задача 10
 
 Написать программу, которая выводит названия всех пустых текстовых файлов в указанной директории. Директория передается в программу параметром. 
-
-## Полезные ссылки
-
-Линукс в браузере: https://bellard.org/jslinux/
-
-ShellCheck: https://www.shellcheck.net/
-
-Разработка CLI-приложений
-
-Общие сведения
-
-https://ru.wikipedia.org/wiki/Интерфейс_командной_строки
-https://nullprogram.com/blog/2020/08/01/
-https://habr.com/ru/post/150950/
-
-Стандарты
-
-https://www.gnu.org/prep/standards/standards.html#Command_002dLine-Interfaces
-https://www.gnu.org/software/libc/manual/html_node/Argument-Syntax.html
-https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap12.html
-
-Реализация разбора опций
-
-Питон
-
-https://docs.python.org/3/library/argparse.html#module-argparse
-https://click.palletsprojects.com/en/7.x/
